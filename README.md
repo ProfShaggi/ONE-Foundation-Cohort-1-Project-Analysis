@@ -28,11 +28,11 @@ The online distribution of the survey enabled the collection of diverse, real-ti
 
 ## Data Preparation and Analysis Process
 In the initial data preparation phase, I performed the following tasks:
-- Data Cleaning: Excel was used for initial data cleaning, including the removal of duplicates, extra spaces, handling missing values, and standardizing formats.
+- **Data Cleaning:** Excel was used for initial data cleaning, including the removal of duplicates, extra spaces, handling missing values, and standardizing formats.
 
-Raw data (Before data cleaning)                  |  Raw data (After data cleaning)
+**Raw data (Before data cleaning)**                  |  **Raw data (After data cleaning)**
 :----------------------------------------------: | :------------------------------:
-![]()
+![](Data_Before_cleaning.png)                    |  ![](Data_After_Cleaning.png)  
 
 - Data Analysis: Pivot tables were utilized to perform comprehensive analysis, allowing for the aggregation and summarization of key applicant metrics.
 - Data Visualization: Charts and graphs were created within Excel to visually represent trends, distributions, and other key insights from the dataset.
