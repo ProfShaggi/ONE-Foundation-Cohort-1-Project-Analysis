@@ -8,9 +8,9 @@
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
 - [Data Preparation and Analysis Process](#data-preparation-and-analysis-process)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [RESULTS](#results)
 - [Dashboard](#dashboard)
-- [Result](#result) 
 - [Recommendations](#recommendations) 
 - [Conclusion](#conclusion)
 
@@ -63,36 +63,38 @@ In the initial data preparation phase, I performed the following tasks:
 ## Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA) was conducted to uncover key insights and patterns within the applicant dataset, addressing several critical questions posed by the stakeholders. The analysis focused on providing actionable answers to the following queries:
-1.	What are the distinct business categories represented in the applications, and what is the rate of applications for each category (%)?
+1.	What are the distinct business categories represented in the applications, and what is the rate of application for each category (%)?
 2.	What are the age demographics of the applicants?
 3.	What is the business longevity of the applicants?
 4.	What are the application trends across the 36 states of Nigeria?
 
-## Dashboard
+## RESULTS
 
-Interactive and responsive dashboard [Download Dashboard.](ONEF_Project.xlsx).
-
-## Result
 - ### Business Categories
-The analysis identified 12 distinct business categories. The rate of applications for each category was calculated and visualized using a pivot chart to highlight percentage contributions. 
-(See visualization for complete details)
+The analysis identified 12 distinct business categories. The rate of applications for each category was calculated and visualized using a pivot chart to highlight percentage contributions. [Refer to pivot table.](ONEF_Project.xlsx)
+
 ![](Business_Categories.png)
 
 - ### Age Demographics
-Applicants were categorized into seven age groups, ranging from 18–20 years (least) to 40–45 years (highest). The visualization provides detailed insights into the age distribution across the applicant pool. (See visualization for complete details)
+Applicants were categorized into seven age groups, ranging from 18–20 years (least) to 40–45 years (highest). The visualization provides detailed insights into the age distribution across the applicant pool. [Refer to pivot table.](ONEF_Project.xlsx)
 
 - ### Business Longevity
-Applicants’ business longevity, referring to how long their businesses have been established. The analysis highlighted four business longevity categories, including the level of engagements (%) as follows
+Applicants’ business longevity, referring to how long their businesses have been established. The analysis highlighted four business longevity categories, including the level of engagements (%) [Refer to pivot table.](ONEF_Project.xlsx) as follows:
 1.	0–11 months: 13%
 2.	1–5 years: 74% 
 3.	6–10 years: 10%
 4.	11 years and above: 3%
 
 - ### Application Trends by Location
-Applications were received from all 36 states of Nigeria. Key highlights include:
+Applications were received from all 36 states of Nigeria [Refer to pivot table](ONEF_Project.xlsx). Key highlights include:
 - Oyo State: The highest number of applicants (34%)
-- Abia State: The lowest number of applicants (1%)
-(Refer to visualization for detailed breakdowns and trends.)
+- The lowest number of applicants (1%) from 16 out of the 36 states
+
+![](State_Distribution.png)
+
+## Dashboard
+
+Interactive and responsive dashboard [Download Dashboard](ONEF_Project.xlsx).
 
 ## Recommendations
 1.	Targeted Outreach: Increase awareness in underrepresented states like Abia through local campaigns and partnerships with universities.
