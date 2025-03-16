@@ -105,6 +105,8 @@ Interactive and responsive dashboard [Download Dashboard](ONEF_Project.xlsx).
 ## Conclusion
 The analysis provided actionable insights into applicant demographics, trends, and preferences, enabling the One Foundation Organisation to tailor its program for maximum impact. The interactive dashboard equips stakeholders with a powerful tool for data-driven decision-making, ensuring efficient program delivery and improved outreach. By leveraging these findings, the organization can better achieve its mission of empowering youth entrepreneurs across Nigeria.
 
+🙂😃💻
+
 
 
 
