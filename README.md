@@ -1,6 +1,19 @@
 # ONE-Foundation-Cohort-1-Project-Analysis
 ![](Intro.jpeg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Project Stakeholder](#project-stakeholder)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Preparation and Analysis Process](#data-preparation-and-analysis-process)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Dashboard](#dashboard)
+- [Result](#result) 
+- [Recommendations](#recommendations) 
+- [Conclusion](#conclusion)
+
 ## Project Overview
 
 This data analysis project was commissioned by the **One Foundation Organisation** and aimed to develop an interactive and dynamic dashboard to analyze applicant data comprehensively. 
@@ -39,13 +52,13 @@ In the initial data preparation phase, I performed the following tasks:
 **Raw data (Before data cleaning)**              |  **Raw data (After data cleaning)**
 :----------------------------------------------: | :------------------------------:
 ![](Data_Before_cleaning.png)                    |  ![](Data_After_Cleaning.png)  
-[Download data here](Raw_Uncleaned_Data.xlsx)    |  [Download data here](Raw_Uncleaned_Data.xlsx)
+[Download data here](Raw_Uncleaned_Data.xlsx)    |  [Download data here](Cleaned_data.xlsx)
 
 - Data Analysis: Pivot tables were utilized to perform comprehensive analysis, allowing for aggregating and summarizing key applicant metrics.
   
 - Data Visualization: Charts and graphs were created within Excel to visually represent trends, distributions, and other key insights from the dataset.
   
-- Interactive Dashboard: An interactive dashboard was developed using Excel's advanced features to present the data dynamically. This dashboard allowed stakeholders to easily view and explore the data based on their specific needs and interests [Download Here](ONEF_Project.xlsx).
+- Interactive Dashboard: An interactive dashboard was developed using Excel's advanced features to present the data dynamically. This dashboard allowed stakeholders to easily view and explore the data based on their specific needs and interests [Download dashboard here](ONEF_Project.xlsx).
 
 ## Exploratory Data Analysis (EDA)
 
@@ -57,11 +70,13 @@ Exploratory Data Analysis (EDA) was conducted to uncover key insights and patter
 
 ## Dashboard
 
-Interactive and responsive dashboard [Download Here](ONEF_Project.xlsx).
+Interactive and responsive dashboard [Download Dashboard.](ONEF_Project.xlsx).
 
 ## Result
 - ### Business Categories
-The analysis identified 12 distinct business categories. The rate of applications for each category was calculated and visualized using a pivot chart to highlight percentage contributions. (See visualization for complete details)
+The analysis identified 12 distinct business categories. The rate of applications for each category was calculated and visualized using a pivot chart to highlight percentage contributions. 
+(See visualization for complete details)
+![](Business_Categories.png)
 
 - ### Age Demographics
 Applicants were categorized into seven age groups, ranging from 18–20 years (least) to 40–45 years (highest). The visualization provides detailed insights into the age distribution across the applicant pool. (See visualization for complete details)
