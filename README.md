@@ -2,10 +2,12 @@
 ![](Intro.jpeg)
 
 ## Project Overview
+
 This data analysis project was commissioned by the **One Foundation Organisation** and aimed to develop an interactive and dynamic dashboard to analyze applicant data comprehensively. 
 The project focused on applicants from all thirty-six (36) states of Nigeria who applied for the organization’s program themed **“Entrepreneurial Thinking”**.
 
 ## Project Objectives
+
 The primary objective was to present an analysis report that would provide stakeholders with in-depth insights into the applicant pool, including:
 1. Demographic distribution.
 2. Engagement levels and response patterns.
@@ -13,32 +15,39 @@ The primary objective was to present an analysis report that would provide stake
 4. Informing data-driven decisions to optimize program delivery, future program outreach, and effectiveness.
 
 ## Project Stakeholder
+
 The primary stakeholders for this project are the Board of Executives of the One Foundation Organisation, a non-governmental organization (NGO) based in Ibadan, Oyo State, Nigeria. 
 The foundation is dedicated to empowering youth entrepreneurs across Nigerian universities by providing essential support services, including: Grants, Entrepreneurship training, Skill acquisition programs, and Networking opportunities.
 
 ## Data Source
+
 The data for this project were sourced primarily through an online survey questionnaire. This survey was disseminated via various social media platforms including Facebook, WhatsApp, LinkedIn, Twitter, and Instagram to ensure widespread accessibility and ease of participation for respondents. 
 The target respondents were youth entrepreneurs or entrepreneurial enthusiasts currently enrolled in universities across Nigeria. 
 The online distribution of the survey enabled the collection of diverse, real-time data from a broad demographic, providing a comprehensive overview of the applicants' characteristics, interests, and engagement levels with the Entrepreneurial Thinking program.
 
 ## Tools Used
+
 - Microsoft Excel: Data cleaning (download data)
 - Microsoft Excel: Data analysis with pivot table and visualization
 - Microsoft Excel: Interactive dashboard for report presentation (view)
 
 ## Data Preparation and Analysis Process
+
 In the initial data preparation phase, I performed the following tasks:
-- **Data Cleaning:** Excel was used for initial data cleaning, including the removal of duplicates, extra spaces, handling missing values, and standardizing formats.
+- **Data Cleaning:** Excel was used for initial data cleaning, including removing duplicates, extra spaces, handling missing values, and standardizing formats.
 
 **Raw data (Before data cleaning)**                  |  **Raw data (After data cleaning)**
 :----------------------------------------------: | :------------------------------:
 ![](Data_Before_cleaning.png)                    |  ![](Data_After_Cleaning.png)  
 
-- Data Analysis: Pivot tables were utilized to perform comprehensive analysis, allowing for the aggregation and summarization of key applicant metrics.
+- Data Analysis: Pivot tables were utilized to perform comprehensive analysis, allowing for aggregating and summarizing key applicant metrics.
+  
 - Data Visualization: Charts and graphs were created within Excel to visually represent trends, distributions, and other key insights from the dataset.
+  
 - Interactive Dashboard: An interactive dashboard was developed using Excel's advanced features to present the data dynamically. This dashboard allowed stakeholders to easily view and explore the data based on their specific needs and interests.
 
 ## Exploratory Data Analysis (EDA)
+
 Exploratory Data Analysis (EDA) was conducted to uncover key insights and patterns within the applicant dataset, addressing several critical questions posed by the stakeholders. The analysis focused on providing actionable answers to the following queries:
 1.	What are the distinct business categories represented in the applications, and what is the rate of applications for each category (%)?
 2.	What are the age demographics of the applicants?
@@ -46,24 +55,25 @@ Exploratory Data Analysis (EDA) was conducted to uncover key insights and patter
 4.	What are the application trends across the 36 states of Nigeria?
 
 ## Dashboard
+
 Static view (See picture here).
 Interactive and responsive view (Refer to visualizations for detailed breakdowns and trends).
 
 ## Result
-# Business Categories
+- ### Business Categories
 The analysis identified 12 distinct business categories. The rate of applications for each category was calculated and visualized using a pivot chart to highlight percentage contributions. (See visualization for complete details)
 
-# Age Demographics
+- ### Age Demographics
 Applicants were categorized into seven age groups, ranging from 18–20 years (least) to 40–45 years (highest). The visualization provides detailed insights into the age distribution across the applicant pool. (See visualization for complete details)
 
-# Business Longevity
+- ### Business Longevity
 Applicants’ business longevity, referring to how long their businesses have been established. The analysis highlighted four business longevity categories, including the level of engagements (%) as follows
 1.	0–11 months: 13%
 2.	1–5 years: 74% 
 3.	6–10 years: 10%
 4.	11 years and above: 3%
 
-# Application Trends by Location
+- ### Application Trends by Location
 Applications were received from all 36 states of Nigeria. Key highlights include:
 - Oyo State: The highest number of applicants (34%)
 - Abia State: The lowest number of applicants (1%)
