@@ -27,24 +27,25 @@ The online distribution of the survey enabled the collection of diverse, real-ti
 
 ## Tools Used
 
-- Microsoft Excel: Data cleaning (download data)
+- Microsoft Excel: Data cleaning
 - Microsoft Excel: Data analysis with pivot table and visualization
-- Microsoft Excel: Interactive dashboard for report presentation (view)
+- Microsoft Excel: Interactive dashboard for report presentation 
 
 ## Data Preparation and Analysis Process
 
 In the initial data preparation phase, I performed the following tasks:
 - **Data Cleaning:** Excel was used for initial data cleaning, including removing duplicates, extra spaces, handling missing values, and standardizing formats.
 
-**Raw data (Before data cleaning)**                  |  **Raw data (After data cleaning)**
+**Raw data (Before data cleaning)**              |  **Raw data (After data cleaning)**
 :----------------------------------------------: | :------------------------------:
 ![](Data_Before_cleaning.png)                    |  ![](Data_After_Cleaning.png)  
+[Download data here](Raw_Uncleaned_Data.xlsx)    |  [Download data here](Raw_Uncleaned_Data.xlsx)
 
 - Data Analysis: Pivot tables were utilized to perform comprehensive analysis, allowing for aggregating and summarizing key applicant metrics.
   
 - Data Visualization: Charts and graphs were created within Excel to visually represent trends, distributions, and other key insights from the dataset.
   
-- Interactive Dashboard: An interactive dashboard was developed using Excel's advanced features to present the data dynamically. This dashboard allowed stakeholders to easily view and explore the data based on their specific needs and interests.
+- Interactive Dashboard: An interactive dashboard was developed using Excel's advanced features to present the data dynamically. This dashboard allowed stakeholders to easily view and explore the data based on their specific needs and interests [Download Here](ONEF_Project.xlsx).
 
 ## Exploratory Data Analysis (EDA)
 
@@ -56,8 +57,7 @@ Exploratory Data Analysis (EDA) was conducted to uncover key insights and patter
 
 ## Dashboard
 
-Static view (See picture here).
-Interactive and responsive view (Refer to visualizations for detailed breakdowns and trends).
+Interactive and responsive dashboard [Download Here](ONEF_Project.xlsx).
 
 ## Result
 - ### Business Categories
